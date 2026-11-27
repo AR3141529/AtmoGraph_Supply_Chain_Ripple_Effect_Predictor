@@ -1,1 +1,1 @@
-This file is for the models that are considered for this work in this project. Please note that this is a collaboration project, that is , there are multiple collaborators to this project overall.
+This file is for the models that are considered for this work in this project. Please note that this is a collaboration project, that is , there are multiple collaborators to this project overall. This file contains all the models that were considered , worked on and finalised. All models and other necessary documentation are updated here accordingly.
